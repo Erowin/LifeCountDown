@@ -1,0 +1,19 @@
+{
+	"state": 200,
+	"categary": [{
+		"catName": 0,
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman/",
+		"vipCount":"28",
+		"count":"30"
+	},{
+		"catName": 1,
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman/",
+		"vipCount":"28",
+		"count":"30"
+	},{
+		"catName": 2,
+		"imageurl":"https://raw.githubusercontent.com/Erowin/HairShow/master/hair/woman/",
+		"vipCount":"28",
+		"count":"30"
+	}]
+}
